@@ -1,4 +1,29 @@
 # 07-Breakout
+
+                  __
+                 /.-
+         ______ //
+        /______'/|
+        [       ]|
+        [ Grape ]|
+        [ Juice ]|
+        [  _\_  ]|
+        [  :::  ]|
+        [   :'  ]/
+        '-------'
+
+Adds these juicy features:
+ -lots and lots of blocks to take down, 25 lives
+ -Each block has a random color
+ -Ball has a random color each time it is reset (will always be dark)
+ -Background switches between a gradient of random colors
+ -Background music
+ -Sound effects for breaking block, losing a ball, and hitting a ball
+ -Game over screens for winning and losing (with music!)
+
+
+---------------------------------------------------------------------------------------------------------------------
+
 This is the sixth assignment for ILS-Z399: the classic game of breakout. Originally built by Steve Wozniak (and aided by Steve Jobs), this has been an arcade classic since 1976.
 
 This version of breakout should be working, but it is pretty boring. Your assignment is to make it "juicy": use your creativity and the tools we have been talking about in class to make it more fun to play.
