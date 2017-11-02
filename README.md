@@ -1,5 +1,4 @@
 # 07-Breakout
-
                   __
                  /.-
          ______ //
@@ -17,10 +16,26 @@ Adds these juicy features:
  -Each block has a random color
  -Ball has a random color each time it is reset (will always be dark)
  -Background switches between a gradient of random colors
- -Background music
+ -Background music (An instrumental cover of Jailbreak by Thin Lizzy)
  -Sound effects for breaking block, losing a ball, and hitting a ball
  -Game over screens for winning and losing (with music!)
+ -Restart game by pressing a key
+ -Particle effects when breaking a block
 
+---------------------------------------------------------------------------------------------------------------------
+
+PS:
+
+This code:
+
+    for x in range(0, len(p_list)):
+        try:
+            # check if the particle is no longer colliding with the screen
+            if p_list[len(p_list) - x - 1].rect.y > screen_size[1]:
+                # remove the particle from the list
+                del p_list[len(p_list) - x - 1]
+
+gets out of range because you take len(p_list) - len(p_list) - 1, which is -1. There is no p_list[-1].
 
 ---------------------------------------------------------------------------------------------------------------------
 
