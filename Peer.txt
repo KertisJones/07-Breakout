@@ -1,0 +1,31 @@
+Peer Review Exercise
+Name: Kayla Barnes
+Date: 11/15/17
+Peer’s project: Jesse - Breakout 
+ 
+What is something you learned by reviewing your peer’s project?
+	His code showed me how to connect sounds to specific events like dying or hitting a block. 
+	I could figure out how to make music play in the background, but I couldn't figure out how to work sound effects.
+----------------------------------------------------------------------------------------------------------------------------------------
+What is something you saw in your peer’s project that you would like to apply to your own programming projects?
+ 	Particles. I thought it was really cool that he made the blocks crumble into pieces when the player hits them,
+	and I wouldn't mind trying to do something like that in my own code.
+----------------------------------------------------------------------------------------------------------------------------------------
+What suggestions would you have for your peer to improve his/her code? 
+	I think what he did was really consise and well done. Most all of the more difficult code was commmented well,
+	which made it easier to read and understand. 
+----------------------------------------------------------------------------------------------------------------------------------------
+What could have been clearer or better commented?
+ 	Most everything was commented well except for the last bit. The "if __name__ == '__main__':" bit. I don't really
+	know what it does and there are no comments.
+----------------------------------------------------------------------------------------------------------------------------------------
+Was there anything in the code that was confusing to you? If so, what?
+ 	The only thing that really confused me where the particles. It looked really involved, and I'm not 
+	always the best when it comes to math.
+----------------------------------------------------------------------------------------------------------------------------------------
+What is something he/she could add to the README.md to make it more descriptive?
+ 	Again, his README was also written really well. There aren't many things that I would change about his assignment. 
+----------------------------------------------------------------------------------------------------------------------------------------
+Pay a compliment to your peer based on the quality of his/her code.
+	You did an amazing job with everything you incorporated into this assignment. Maybe one of these days, I'll be 
+	able to understand how you made those particles work. haha
